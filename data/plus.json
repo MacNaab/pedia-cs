@@ -1,0 +1,101 @@
+{
+    "Instinctuel": [
+        {
+            "nom": "Alimentation",
+            "type": "input",
+            "placeholder": "Trouble alimentaire ?"
+        },
+        {
+            "nom": "Sommeil",
+            "type": "input",
+            "placeholder": "Trouble du sommeil ?"
+        },
+        {
+            "nom": "Propreté",
+            "type": "input",
+            "placeholder": "Si acquisition diurne, nocturne"
+        }
+    ],
+    "Neuro-développement": [
+        {
+            "nom": "Langage",
+            "type": "input",
+            "placeholder": "Trouble du langage ?"
+        },
+        {
+            "nom": "Compréhension/Orientation",
+            "type": "input",
+            "placeholder": "Trouble de la compréhension ?"
+        },
+        {
+            "nom": "Motricité fine",
+            "type": "input",
+            "placeholder": "Trouble de la motricité ?"
+        }
+    ],
+    "Scolarité": [
+        {
+            "nom": "Classe",
+            "type": "input",
+            "placeholder": "CP"
+        },
+        {
+            "nom": "Difficultées scolaires",
+            "type": "textarea",
+            "placeholder": "Noter ici les difficultées éventuelles, les redoublements."
+        }
+    ],
+    "Puberté": [
+        {
+            "nom": "Stade pubertaire",
+            "type": "input",
+            "placeholder": ""
+        },
+        {
+            "nom": "Notes*",
+            "type": "textarea",
+            "placeholder": ""
+        }
+    ],
+    "Dépistages": [
+        {
+            "nom": "Ophtalmologique",
+            "type": "textarea",
+            "placeholder": "avec cotation"
+        },
+        {
+            "nom": "ORL",
+            "type": "textarea",
+            "placeholder": "avec cotation"
+        }
+    ],
+    "Activités physiques": [
+        {
+            "nom": "Latéralité - main*",
+            "type": "radio",
+            "choices": ["Droite", "Gauche"]
+        },
+        {
+            "nom": "Latéralité - pied*",
+            "type": "radio",
+            "choices": ["Droite", "Gauche"]
+        },
+        {
+            "nom": "Sport",
+            "type": "textarea",
+            "placeholder": "Sport.s pratiqué.e.s"
+        }
+    ],
+    "Autres": [
+        {
+            "nom": "Traitement habituel",
+            "type": "textarea",
+            "placeholder": "Liste des médicaments en cours d'usage"
+        },
+        {
+            "nom": "Notes",
+            "type": "textarea",
+            "placeholder": ""
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "PartieA": [
+        {
+            "label": "Complications ou risque potentiel de complication",
+            "exemple": "(ulcération, atteinte visuelle, difficulté d'alimentation, stridor)"
+        },
+        {
+            "label": "Atteinte de la partie centrale du visage et/ou des oreilles",
+            "exemple": ""
+        },
+        {
+            "label": "Atteinte de la région mammaire",
+            "exemple": "(chez la fille)"
+        },
+        {
+            "label": "Atteinte médiane de la région lombo-sacrée",
+            "exemple": ""
+        },
+        {
+            "label": "Taille ≥ 4cm",
+            "exemple": "(focal ou segmentaire)"
+        },
+        {
+            "label": "Nombre d'hémangiomes ≥ 5",
+            "exemple": ""
+        }
+
+    ],
+    "PartieB": {
+        "Localisation de l'hémangiome": [
+            {
+                "label": "Sur le visage en dehors des zones mentionnées précédemment",
+                "exemple": "(voir partie A)",
+                "value": 3
+            },
+            {
+                "label": "Cou, cuir chevelu ou région périnéo-fessière",
+                "exemple": "(sous la couche)",
+                "value": 2
+            }
+        ],
+        "Taille du plus gros hémangiome": [
+            {
+                "label": "≥1 cm sur le visage en dehors des zones mentionnées précédemment",
+                "exemple": "(voir partie A)",
+                "value": 3
+            },
+            {
+                "label": "2 - 4 cm sur les parties du corps en dehors de celles mentionnées précédemment",
+                "exemple": "(voir partie A)",
+                "value": 2
+            }
+        ],
+        "Âge de l'enfant et croissance de l'hémangiome": [
+            {
+                "label": "Le nourrisson a moins de 2 mois",
+                "exemple": "",
+                "value": 3
+            },
+            {
+                "label": "Le nourrisson a ≥2 et ≤ 4 mois, avec un hémangiome dont la croissance est évidente au cours des 2 dernières semaines.",
+                "exemple": "",
+                "value": 2
+            }
+        ]
+    }
+}
