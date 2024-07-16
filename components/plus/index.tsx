@@ -8,6 +8,7 @@ import { calculateExactAge } from "@/components/minus/utils";
 import myJson from "@/data/plus.json";
 import Toast from "../toast";
 import { createRoot } from "react-dom/client";
+import { nanoid } from "nanoid";
 
 export default function Index() {
   const [age, setAge] = useState("");
@@ -68,9 +69,7 @@ export default function Index() {
       <div className="flex justify-center">
         <button type="submit">Valider</button>
       </div>
-      <div className="flex">
-        <textarea className="w-full h-fit" rows={10} value={copy} disabled />
-      </div>
+      <div>{copy.split("\n").map((line) => <div key={nanoid()}>{line}</div>)}</div>
     </form>
   );
 }

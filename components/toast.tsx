@@ -1,6 +1,24 @@
+"use client";
+import { useState } from "react";
 import { nanoid } from "nanoid";
 
-export default function Toast({ children, style }: { children: React.ReactNode, style?: React.CSSProperties }) {
+export default function Toast({
+  children,
+  style,
+}: {
+  children: React.ReactNode;
+  style?: React.CSSProperties;
+}) {
+  const [isOpen, setIsOpen] = useState(true);
+
+  const onClose = () => {
+    setIsOpen(false);
+  };
+
+  if (!isOpen) {
+    return null;
+  }
+
   return (
     <div
       id={nanoid()}
@@ -24,6 +42,22 @@ export default function Toast({ children, style }: { children: React.ReactNode, 
         />
       </svg>
       <div className="ps-4 text-sm font-normal">{children}</div>
+      <button onClick={onClose} className="ml-2">
+        <svg
+          className="w-5 h-5 text-gray-500 dark:text-white"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M6 18L18 6M6 6l12 12"
+          />
+        </svg>
+      </button>
     </div>
   );
 }

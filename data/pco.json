@@ -1,0 +1,929 @@
+[
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Isère",
+        "Numéro du dépt": "38",
+        "Structure juridique": "CH Alpes Isère",
+        "Numéro de téléphone": "04 76 25 19 69",
+        "Adresse électronique": "anais@mrsi.fr",
+        "Adresse postale": "16 rue du Tour de l'Eau 38400 ST MARTIN D'HERES"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Rhône Nord",
+        "Numéro du dépt": "69",
+        "Structure juridique": "Association AGIVR",
+        "Numéro de téléphone": "04 69 37 22 17",
+        "Adresse électronique": "plateforme.tnd@agivr.asso.fr",
+        "Adresse postale": "408 rue des Remparts, 69400 VILLEFRANCHE SUR SAÔNE"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Métropole de Lyon",
+        "Numéro du dépt": "69",
+        "Structure juridique": "Fondation ARHM",
+        "Numéro de téléphone": "04 87 34 38 10",
+        "Adresse électronique": "plateformetnd.lyon7.pleiade@arhm.fr",
+        "Adresse postale": "23. rue Saint Maximin 69003 LYON"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "SUD Métropole Lyon/ Rhône EST et OUEST",
+        "Numéro du dépt": "69",
+        "Structure juridique": "Fondation OVE",
+        "Numéro de téléphone": "04 87 64 91 26",
+        "Adresse électronique": "pco@fondation-ove.fr",
+        "Adresse postale": "3 Montée de Cras 69700 Givors"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Cantal/Allier/Puy-de-Dôme",
+        "Numéro du dépt": "15, 03, 06",
+        "Structure juridique": "ADAPEI",
+        "Numéro de téléphone": "15 04 71 43 11 00",
+        "Adresse électronique": "picocap@adapei15.com",
+        "Adresse postale": "1 rue Lappara de Fieux 15000 Aurillac"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Ain",
+        "Numéro du dépt": "01",
+        "Structure juridique": "Association Les PEP",
+        "Numéro de téléphone": "01 04 28 44 10 45",
+        "Adresse électronique": "pcotnd01@lespep01.org",
+        "Adresse postale": "50 rue Paul Painlevé 01130 NANTUA"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Savoie / Haute-Savoie",
+        "Numéro du dépt": "73, 74",
+        "Structure juridique": "CHS Savoie",
+        "Numéro de téléphone": "04 79 69 13 48",
+        "Adresse électronique": "pco@camsp73.org",
+        "Adresse postale": "Hôtel dieu - BP 11125 - 73011 CHAMBERY Cedex"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Drôme / Ardèche",
+        "Numéro du dépt": "26, 07",
+        "Structure juridique": "APAJH Drôme",
+        "Numéro de téléphone": "04 75 55 25 54",
+        "Adresse électronique": "pco2607@apajh-drome.org",
+        "Adresse postale": "64 Allee du Concept, 26500 Bourg-lès-Valence"
+    },
+    {
+        "Région": "Auvergne Rhône-Alpes",
+        "Département": "Loire / Haute-Loire",
+        "Numéro du dépt": "42, 43",
+        "Structure juridique": "CHU-APAJH43-LIGUE42",
+        "Numéro de téléphone": "04 77 46 59 89",
+        "Adresse électronique": "POCTND4243@chu-st-etienne.fr ou secretariatpoc4243@gmail.com",
+        "Adresse postale": "26 RUE DES PASSEMENTIERS 42100 ST ETIENNE"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Saône-et-Loire",
+        "Numéro du dépt": "71",
+        "Structure juridique": "Association PEP 71",
+        "Numéro de téléphone": "06 09 50 36 86",
+        "Adresse électronique": "plateforme.tnd@pep71.org",
+        "Adresse postale": "4 rue Maréchal de Lattre de Tassigny 71100 CHALON SUR SAONE"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Yonne",
+        "Numéro du dépt": "89",
+        "Structure juridique": "CENTRE HOSPITALIER SPECIALISE DE L’YONNE",
+        "Numéro de téléphone": "03 86 94 39 88",
+        "Adresse électronique": "plateformepco@chs-yonne.fr",
+        "Adresse postale": "4 avenue Pierre Scherrer - BP 99 -89011 AUXERRES"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Nièvre",
+        "Numéro du dépt": "58",
+        "Structure juridique": "CAMSP le Fil d'Ariane",
+        "Numéro de téléphone": "03 86 71 98 50",
+        "Adresse électronique": "pco.nievre@lefildariane-nievre.fr",
+        "Adresse postale": "PCO Nièvre, 8 rue des docks, 58000 NEVERS"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Doubs",
+        "Numéro du dépt": "25",
+        "Structure juridique": "Association CAMSP Doubs/Aire Urbaine",
+        "Numéro de téléphone": "03 81 47 74 50",
+        "Adresse électronique": "doubs@camsp.fr",
+        "Adresse postale": "17 rue Louis Pergaud 25000 Besancon, Adresse administrative : 9 chemin de palente 25000 BESANCON"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Territoire de Belfort",
+        "Numéro du dépt": "90",
+        "Structure juridique": "Association CAMSP Doubs/Aire Urbaine",
+        "Numéro de téléphone": "03 84 90 19 70",
+        "Adresse électronique": "aireurbaine@camsp.fr",
+        "Adresse postale": "4 rue de l'As de Carreau 9000 belfort"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Haute-Saône",
+        "Numéro du dépt": "70",
+        "Structure juridique": "CAMSP 70",
+        "Numéro de téléphone": "02.38.53.76.22",
+        "Adresse électronique": "pco.70@ahssea.fr",
+        "Adresse postale": "71 avenue Denis Papin, 45800 SAINT JEAN DE BRAYE"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Côte d'Or",
+        "Numéro du dépt": "21",
+        "Structure juridique": "Association PEPCBFC",
+        "Numéro de téléphone": "03 80 76 63 19",
+        "Adresse électronique": "pcotnd21@pepcbfc.org",
+        "Adresse postale": "28 rue des Ecayennes 21000 Dijon"
+    },
+    {
+        "Région": "Bourgogne Franche Comté",
+        "Département": "Jura",
+        "Numéro du dépt": "39",
+        "Structure juridique": "CAMSP du Jura (PCO 39)",
+        "Numéro de téléphone": "03 84 79 66 30",
+        "Adresse électronique": "camsp.secretariat@ch-dole.fr",
+        "Adresse postale": "73 avenue Léon Jouhaux 39100 DOLE"
+    },
+    {
+        "Région": "Bretagne",
+        "Département": "Côtes d'Armor",
+        "Numéro du dépt": "22",
+        "Structure juridique": "EPSMS AR GOUED",
+        "Numéro de téléphone": "02 96 65 59 20",
+        "Adresse électronique": "plateformeTND-22@ar-goued.bzh",
+        "Adresse postale": "22 rue Alain Colas 22950 TREGUEUX"
+    },
+    {
+        "Région": "Bretagne",
+        "Département": "Finistère",
+        "Numéro du dépt": "29",
+        "Structure juridique": "ADPEP 29",
+        "Numéro de téléphone": "02.98.82.56.40",
+        "Adresse électronique": "plateformeTND29.contact@pep29.org",
+        "Adresse postale": "11 rue Albert le Brun 29400 LANDIVISIAU"
+    },
+    {
+        "Région": "Bretagne",
+        "Département": "Morbihan",
+        "Numéro du dépt": "56",
+        "Structure juridique": "Association Gabriel Deshayes/CAMSP Audition Langage",
+        "Numéro de téléphone": "02 97 29 38 01",
+        "Adresse électronique": "plateformetnd@agd56.fr",
+        "Adresse postale": "6, allée Marie-Louise Trichet, 56400 BRECH"
+    },
+    {
+        "Région": "Bretagne",
+        "Département": "Ille-et-Vilaine",
+        "Numéro du dépt": "35",
+        "Structure juridique": "ARASS",
+        "Numéro de téléphone": "02 30 96 38 80",
+        "Adresse électronique": "tnd@plateforme35.fr",
+        "Adresse postale": "16b rue de Jouanet 35700 RENNES"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Indre",
+        "Numéro du dépt": "36",
+        "Structure juridique": "Association AIDAPHI",
+        "Numéro de téléphone": "06 45 04 77 83",
+        "Adresse électronique": "pco36@aidaphi.asso.fr",
+        "Adresse postale": "8 RUE DE VALLIERES 36120 ARDENTES"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Cher",
+        "Numéro du dépt": "18",
+        "Structure juridique": "CAMSP PEP 18",
+        "Numéro de téléphone": "02 48 23 27 77 / 06 31 12 39 94",
+        "Adresse électronique": "pcotnd@pep18.fr",
+        "Adresse postale": "Parc comitec, 4, rue JeanFrançois Champollion, 18000 Bourges"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Eure-et-Loir",
+        "Numéro du dépt": "28",
+        "Structure juridique": "CAMSP de Chartres CH de Chartres",
+        "Numéro de téléphone": "02.37.30.57.30 / 08.01.90.02.20",
+        "Adresse électronique": "pco28@ch-chartres.fr",
+        "Adresse postale": "34 rue du Dr Maunoury 28000 CHARTRES"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Indre-et-Loire",
+        "Numéro du dépt": "37",
+        "Structure juridique": "CAMSP Clocheville hospitalier CHU Tours",
+        "Numéro de téléphone": "02 47 47 76 54",
+        "Adresse électronique": "pco37@chu-tours.fr",
+        "Adresse postale": "CHU Tours 2 boulevard Tonnellé 37044 Tours"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Loir-et-Cher",
+        "Numéro du dépt": "41",
+        "Structure juridique": "Pôle femme-enfant-adolescent et santé mentale, service pédopsychiatrie de l'hopital de Blois",
+        "Numéro de téléphone": "02 54 55 63 98",
+        "Adresse électronique": "pcotnd41@ch-blois.fr",
+        "Adresse postale": "Centre hospitalier Simone Veil de Blois, 41016 Blois"
+    },
+    {
+        "Région": "Centre Val de Loire",
+        "Département": "Loiret",
+        "Numéro du dépt": "45",
+        "Structure juridique": "hopital de jour Pierre Chevaldonne AIDAPHI et CMPP de Saint Jean de Braye",
+        "Numéro de téléphone": "02 38 66 84 42",
+        "Adresse électronique": "pco45@aidaphi.asso.fr",
+        "Adresse postale": "PCO45-AIDAPHI, 6 ter place Saint Laurent, 45000 ORLEANS"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Bas-Rhin",
+        "Numéro du dépt": "67",
+        "Structure juridique": "APEDI Alsace",
+        "Numéro de téléphone": "03 88 81 51 97",
+        "Adresse électronique": "pco.bas-rhin@apedi-alsace.fr",
+        "Adresse postale": "33 rue du barrage, 67300 SCHILTIGHEIM"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Haut-Rhin (Thann)",
+        "Numéro du dépt": "68",
+        "Structure juridique": "Association Au fil de la Vie",
+        "Numéro de téléphone": "03 89 37 10 38",
+        "Adresse électronique": "pco@aufildelavie.fr",
+        "Adresse postale": "PCO-TND 68 , 27-29 rue Kléber, 68800 THANN"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Vosges (Epinal)",
+        "Numéro du dépt": "88",
+        "Structure juridique": "APF",
+        "Numéro de téléphone": "03.29.22.18.10",
+        "Adresse électronique": "pco-tnd@apf.asso.fr",
+        "Adresse postale": "PCO TND, CAMSP APFFh, 4 Place Christian Poncelet, 88200 REMIREMONT"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Moselle",
+        "Numéro du dépt": "57",
+        "Structure juridique": "APF",
+        "Numéro de téléphone": "06 73 42 97 14",
+        "Adresse électronique": "plateforme.pco57@apf.asso.fr",
+        "Adresse postale": "PCO 2 rue Augustin Fresnel 57070 METZ"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Marne (Reims)",
+        "Numéro du dépt": "51",
+        "Structure juridique": "AAIMCNE",
+        "Numéro de téléphone": "06 98 15 11 18",
+        "Adresse électronique": "secretariat.pco@imc-ne.org",
+        "Adresse postale": "PCO - 2 PLACE DES QUATRE FILS AYMON 51000 CHALONS EN CHAMPAGNE"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Meurthe-et-Moselle",
+        "Numéro du dépt": "54",
+        "Structure juridique": "APAMSP",
+        "Numéro de téléphone": "03 82 39 52 32",
+        "Adresse électronique": "pco-tnd54@apamsp.fr",
+        "Adresse postale": "CAMSP MSM , 12 rue de Bordeaux, 54350 MONTSAINT-MARTIN"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Meuse",
+        "Numéro du dépt": "55",
+        "Structure juridique": "CH VERDUN",
+        "Numéro de téléphone": "06 99 77 27 18 | 06 99 77 26 75",
+        "Adresse électronique": "pco-tnd55@ghtcge.fr",
+        "Adresse postale": "2 rue d'Anthouard BP 20713 - 55 107 VERDUN CEDEX"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Ardennes",
+        "Numéro du dépt": "08",
+        "Structure juridique": "Association Vers l'autonomie du sujet",
+        "Numéro de téléphone": "07 85 94 75 95",
+        "Adresse électronique": "pco08@vas08.fr",
+        "Adresse postale": "12 cours Briand, 08000 Charleville-Mézières"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Haute-Marne",
+        "Numéro du dépt": "52",
+        "Structure juridique": "CMPP Saint Dizier",
+        "Numéro de téléphone": "06 20 53 72 17",
+        "Adresse électronique": "secretariat.pco.cmpp.hautemarne@apajh.asso.fr",
+        "Adresse postale": "4 Rue Decomble 52 000 CHAUMONT"
+    },
+    {
+        "Région": "Grand Est",
+        "Département": "Aube",
+        "Numéro du dépt": "10",
+        "Structure juridique": "APEI Aube",
+        "Numéro de téléphone": "06 59 33 61 06",
+        "Adresse électronique": "pco@apei-aube.com",
+        "Adresse postale": "29 ter avenue des Martyrs de la Résistance 10 000 Troyes"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Somme",
+        "Numéro du dépt": "80",
+        "Structure juridique": "CHU Amiens Picardie Site Nord",
+        "Numéro de téléphone": "03 22 08 76 98",
+        "Adresse électronique": "pco.tnd@chu-amiens.fr",
+        "Adresse postale": "Hôpital Nord - CAMSP - Place Victor Pauchet - 80054 AMIENS Cédex 1"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Oise",
+        "Numéro du dépt": "60",
+        "Structure juridique": "CAMSP Beauvais",
+        "Numéro de téléphone": "03 44 11 25 77",
+        "Adresse électronique": "secretariatPCO-Oise@ch-beauvais.fr",
+        "Adresse postale": "40 avenue Léon Blum 60000 BEAUVAIS"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Aisne",
+        "Numéro du dépt": "02",
+        "Structure juridique": "CAMSP du CH de Saint Quentin",
+        "Numéro de téléphone": "03 23 05 56 36",
+        "Adresse électronique": "pco.aisne@ch-stquentin.fr",
+        "Adresse postale": "237 rue de fayet 02100 saint quentin"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Nord",
+        "Numéro du dépt": "59",
+        "Structure juridique": "Association APF France handicap",
+        "Numéro de téléphone": "03 27 41 87 80",
+        "Adresse électronique": "pco.hainaut@apf.asso.fr",
+        "Adresse postale": "56, rue Jean Jaurès 59410 Anzin"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Nord",
+        "Numéro du dépt": "59",
+        "Structure juridique": "Etablissement Public de Santé Mentale des Flandres",
+        "Numéro de téléphone": "03 28 43 82 83",
+        "Adresse électronique": "PCO.Flandres@ghtpsy-npdc.fr",
+        "Adresse postale": "P.C.O des Flandres, 182/184 Boulevard Vauban, 59210 COUDEKERQUE-BRANCHE"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Nord",
+        "Numéro du dépt": "59",
+        "Structure juridique": "Etablissement public de santé - Agglomération lilloise (EPSM AL)",
+        "Numéro de téléphone": "03 28 38 51 41",
+        "Adresse électronique": "contact-pco-al@ghtpsy-npdc.fr",
+        "Adresse postale": "1 rue de Lommelet BP4 59350 Saint André Lez Lille"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Pas de Calais",
+        "Numéro du dépt": "62",
+        "Structure juridique": "Association La vie active",
+        "Numéro de téléphone": "06 72 46 67 67",
+        "Adresse électronique": "pcolittoral@vieactive.asso.fr",
+        "Adresse postale": "23 bis Rue Auber 62100 CALAIS"
+    },
+    {
+        "Région": "Hauts de France",
+        "Département": "Pas de Calais",
+        "Numéro du dépt": "62",
+        "Structure juridique": "CAMSP PEP 62",
+        "Numéro de téléphone": "03 61 47 81 63",
+        "Adresse électronique": "pco62.interieur@pep62.fr",
+        "Adresse postale": "CH Arras 3 Bd Georges Besnier 62 000 Arras"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Paris",
+        "Numéro du dépt": "75",
+        "Structure juridique": "HOVIA",
+        "Numéro de téléphone": "01 87 03 93 63",
+        "Adresse électronique": "a.clain@hovia.org | thibaut.butel@ars.sante.fr | va.chevalier@hovia.org",
+        "Adresse postale": "29 rue Violet Paris 15ème"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Val d'Oise Est",
+        "Numéro du dépt": "95",
+        "Structure juridique": "CAMSP - CH Gonesse",
+        "Numéro de téléphone": "01 82 32 05 88",
+        "Adresse électronique": "pcotndestvaldoise@ch-gonesse.fr",
+        "Adresse postale": "Pôle de pédopsychiatrie (Bâtiment Destors) 2 boulevard du 19 mars 1962, 95500 GONESSE"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Yvelines",
+        "Numéro du dépt": "78",
+        "Structure juridique": "CH Versailles",
+        "Numéro de téléphone": "01 39 63 91 08",
+        "Adresse électronique": "pcoyvelines@ch-versailles.fr",
+        "Adresse postale": "Centre hospitalier de Versailles - Maison Despagne - 50 rrue Berthier - 78000 VERSAILLES"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Seine-et-Marne",
+        "Numéro du dépt": "77",
+        "Structure juridique": "Association Hand-AURA",
+        "Numéro de téléphone": "01 60 36 45 45",
+        "Adresse électronique": "secretariat.pco77@hand-aura.org",
+        "Adresse postale": "8 mail Barthelemy Thimonnier, 77185 Lognes"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Seine-Saint-Denis",
+        "Numéro du dépt": "93",
+        "Structure juridique": "APF France Handicap",
+        "Numéro de téléphone": "01 78 90 55 00",
+        "Adresse électronique": "pco-pdap93@apf.asso.fr",
+        "Adresse postale": "1, rue de Rome, 93110 ROSNY-SOUS-BOIS"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Val-de-Marne Ouest",
+        "Numéro du dépt": "94",
+        "Structure juridique": "CMPP de Cachan Fondation La Vallée",
+        "Numéro de téléphone": "01 41 24 81 79",
+        "Adresse électronique": "plateformetndouest94@chfondationvalee.fr",
+        "Adresse postale": "7 rue Benserade 94250 Gentilly"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Val-de-Marne Est",
+        "Numéro du dépt": "94",
+        "Structure juridique": "CAMSP des Lucioles (CHI Créteil)",
+        "Numéro de téléphone": "01.57.02.35.66",
+        "Adresse électronique": "pcoest94@chicreteil.fr",
+        "Adresse postale": "23 av. Ste Marie Créteil 94000"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Essonne",
+        "Numéro du dépt": "91",
+        "Structure juridique": "EPS B. DURAND",
+        "Numéro de téléphone": "01.69.00.01.20",
+        "Adresse électronique": "Mariette.vinurel@eps-etampes.fr",
+        "Adresse postale": "43/45 Avenue du Général De Gaulle, 91600 Savigny Sur Orge"
+    },
+    {
+        "Région": "Ile-de-France",
+        "Département": "Hauts-de-Seine",
+        "Numéro du dépt": "92",
+        "Structure juridique": "CESAP",
+        "Numéro de téléphone": "01 89 29 13 15",
+        "Adresse électronique": "secr.pco92@cesap.asso.fr",
+        "Adresse postale": ""
+    },
+    {
+        "Région": "Normandie",
+        "Département": "Seine Maritime et Eure",
+        "Numéro du dépt": "76, 27",
+        "Structure juridique": "CHU Rouen",
+        "Numéro de téléphone": "06 46 71 00 34",
+        "Adresse électronique": "plateforme.tnd@chu-rouen.fr",
+        "Adresse postale": "CAMSP CHU de Rouen"
+    },
+    {
+        "Région": "Normandie",
+        "Département": "Orne",
+        "Numéro du dépt": "61",
+        "Structure juridique": "Centre psychothérapique de l'Orne",
+        "Numéro de téléphone": "07 86 51 62 79",
+        "Adresse électronique": "coordonnateur.pco61@cpoalencon.net",
+        "Adresse postale": "C.P.O 31 rue Anne Marie JAVOUHEY 61000 ALENCON"
+    },
+    {
+        "Région": "Normandie",
+        "Département": "Manche",
+        "Numéro du dépt": "50",
+        "Structure juridique": "CAMSP PEP50",
+        "Numéro de téléphone": "06 07 01 29 02",
+        "Adresse électronique": "contact.pco50@pep50.fr",
+        "Adresse postale": "682 rue Jules Vallès 50000 SAINT-LO"
+    },
+    {
+        "Région": "Normandie",
+        "Département": "Calvados",
+        "Numéro du dépt": "14",
+        "Structure juridique": "CAMSP Gaston Mialaret",
+        "Numéro de téléphone": "02 61 67 11 36",
+        "Adresse électronique": "pco14@mialaret.asso.fr",
+        "Adresse postale": "3, rue du docteur Laennec, 14200 Hérouville St Clair"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Vienne",
+        "Numéro du dépt": "86",
+        "Structure juridique": "Association PEP 86",
+        "Numéro de téléphone": "05 49 59 69 86",
+        "Adresse électronique": "pco.tnd@pep86.fr",
+        "Adresse postale": "Pôle enfance de l'Actiparc, 10 allée Champ Dinard, 86440 MIGNE-AUXANCES"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Haute Vienne",
+        "Numéro du dépt": "87",
+        "Structure juridique": "CAMSP PEP+ALSEA",
+        "Numéro de téléphone": "05 56 56 35 44",
+        "Adresse électronique": "pco-tnd33@ch-perrens.fr",
+        "Adresse postale": "121 Rue de la Béchade CS 81285 33076 BORDEAUX"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Gironde",
+        "Numéro du dépt": "33",
+        "Structure juridique": "CH Charles Perrens",
+        "Numéro de téléphone": "06 31 55 92 20",
+        "Adresse électronique": "dvalerius@ch-perrens.fr",
+        "Adresse postale": "29, avenue du 18e régiment d'infanterie, 64000 PAU"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Pyrénées Atlantiques",
+        "Numéro du dépt": "64",
+        "Structure juridique": "AUTISME France Antenne Béarn",
+        "Numéro de téléphone": "06 24 72 15 05",
+        "Adresse électronique": "antennecotebasque@pco-tnd64.fr",
+        "Adresse postale": "Asssociation Chrysalide, 10 place André Emlinger, 64100 BAYONNE"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Pyrénées Atlantiques",
+        "Numéro du dépt": "64",
+        "Structure juridique": "AUTISME France Antenne cote basque",
+        "Numéro de téléphone": "08 01 90 07 17",
+        "Adresse électronique": "pco@adei17.com",
+        "Adresse postale": "Rue Pierre LOTI BP 60101, 17104, SAINTES CEDEX"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Charente-Maritime",
+        "Numéro du dépt": "17",
+        "Structure juridique": "ADEI",
+        "Numéro de téléphone": "05 49 09 79 60 / 07 57 46 10 53",
+        "Adresse électronique": "pcotnd79@gpa-asso.fr",
+        "Adresse postale": "CAMSP 11 rue de la convention, 79000 Niort"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Deux-Sèvres",
+        "Numéro du dépt": "79",
+        "Structure juridique": "GPA 79",
+        "Numéro de téléphone": "05.49.09.79.60 / 07.57.46.10.53",
+        "Adresse électronique": "pcotnd79@gpa-asso.fr",
+        "Adresse postale": "CAMSP 11 rue de la convention, 79000 Niort"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Charente",
+        "Numéro du dépt": "16",
+        "Structure juridique": "ADAPEI",
+        "Numéro de téléphone": "05 17 00 82 48 | 06 76 73 87 32",
+        "Adresse électronique": "contact@pcotndcharente.fr",
+        "Adresse postale": "P101 avenue de Varsovie 16 000 ANGOULEME"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Corrèze",
+        "Numéro du dépt": "19",
+        "Structure juridique": "ADPEP",
+        "Numéro de téléphone": "Basse Corrèze: 05.55.17.20.20 | Moyenne Corrèze: 05.55.29.87.21",
+        "Adresse électronique": "contact@pta19.fr",
+        "Adresse postale": "PCO TND 0-6 ans 19 Bd du Marquisat 19000 TULLE"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Dordogne",
+        "Numéro du dépt": "24",
+        "Structure juridique": "Camsp",
+        "Numéro de téléphone": "05 53 02 02 99",
+        "Adresse électronique": "cd24.pco@dordogne.fr",
+        "Adresse postale": "Camsp-PCO Bâtiment B 2e étage rue du 26e régiment infanterie CS 710 24016 PERIGUEUX"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Lot et Garonne",
+        "Numéro du dépt": "47",
+        "Structure juridique": "CAMSP ALGEEI",
+        "Numéro de téléphone": "05 53 66 06 12",
+        "Adresse électronique": "pco.47@algeei.org",
+        "Adresse postale": "36 rue de Barleté, 47000 AGEN"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Landes",
+        "Numéro du dépt": "40",
+        "Structure juridique": "Conseil départemental 40",
+        "Numéro de téléphone": "05 58 05 40 40",
+        "Adresse électronique": "cde40.pco@landes.fr",
+        "Adresse postale": "CMPP, PCO des landes 3 allée Claude Mora 40000 Mont De Marsan"
+    },
+    {
+        "Région": "Nouvelle Aquitaine",
+        "Département": "Creuse",
+        "Numéro du dépt": "23",
+        "Structure juridique": "ALDP",
+        "Numéro de téléphone": "07 63 74 91 62",
+        "Adresse électronique": "pcotnd23@aldp-limousin.fr",
+        "Adresse postale": "28 rue Jeanne d’Arc 23 000 Guéret"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Tarn",
+        "Numéro du dépt": "81",
+        "Structure juridique": "Fondation Bon Sauveur d'Alby (CAMSP polyvalent)",
+        "Numéro de téléphone": "05 63 48 48 10",
+        "Adresse électronique": "secretariat.plateformeTND@bonsauveuralby.fr",
+        "Adresse postale": "7 rue de Lavaziere CS 81180, 81025 ALBI Cedex 9"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Aude Narbonne",
+        "Numéro du dépt": "11",
+        "Structure juridique": "CH Narbonne",
+        "Numéro de téléphone": "04 48 90 09 54",
+        "Adresse électronique": "plateformetnd@ch-narbonne.fr",
+        "Adresse postale": "5 avenue Pierre et Marie Curie 11100 Narbonne"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Aude",
+        "Numéro du dépt": "11",
+        "Structure juridique": "GCSMS Coop'A11",
+        "Numéro de téléphone": "06.29.80.86.90",
+        "Adresse électronique": "pcotnd@gcsms-sessad.fr",
+        "Adresse postale": "8 rue Paul Scarron 11000 CARCASSONNE"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Gers",
+        "Numéro du dépt": "32",
+        "Structure juridique": "ADPEP 32",
+        "Numéro de téléphone": "05 62 63 55 36",
+        "Adresse électronique": "plateformetnd@pep32.fr",
+        "Adresse postale": "14 rue Eugène Sue 32000 AUCH"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Hérault",
+        "Numéro du dépt": "34",
+        "Structure juridique": "CHU de Montpellier",
+        "Numéro de téléphone": "0467335189",
+        "Adresse électronique": "pcotnd34@chu-montpellier.fr",
+        "Adresse postale": "CHU de Montpellier Hôpital la Colombière SMPEA 2 Peyre Plantade 291 av. du Doyen Gaston Giraud 34295 Montpellier Cedex 5"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Lot",
+        "Numéro du dépt": "46",
+        "Structure juridique": "Institut Camille Miret",
+        "Numéro de téléphone": "06.75.07.61.19",
+        "Adresse électronique": "plateforme.tnd@icm46.org",
+        "Adresse postale": "173, rue Montaudie 46000 CAHORS"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Tarn-et-Garone 82",
+        "Numéro du dépt": "Association Tarn-et-Garonnaise des CAMSP",
+        "Structure juridique": "05.63.20.52.37",
+        "Numéro de téléphone": "pco@camsp-82.fr",
+        "Adresse électronique": "CAMSP de Montauban 8 place du Bicentenaire 82000 MONTAUBAN",
+        "Adresse postale": ""
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Aveyron",
+        "Numéro du dépt": "12",
+        "Structure juridique": "ADPEP 12",
+        "Numéro de téléphone": "09 78 31 48 75",
+        "Adresse électronique": "plateformetnd12@pep12.fr",
+        "Adresse postale": "CMPP Rodez, 1 rue Abbe, 12000 RODEZ"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Lozère",
+        "Numéro du dépt": "48",
+        "Structure juridique": "CH Mende",
+        "Numéro de téléphone": "04 66 49 88 33",
+        "Adresse électronique": "pco48@ch-mende.fr",
+        "Adresse postale": "CAMSP Hôpital Lozère Av. du 8 mai 1945 48000 Mende"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Gard",
+        "Numéro du dépt": "30",
+        "Structure juridique": "CAMSP du CH de Bagnols",
+        "Numéro de téléphone": "(07 85 55 21 11 demander autorisation) / 04 66 67 70 26",
+        "Adresse électronique": "pco30@ch-bagnolssurceze.fr",
+        "Adresse postale": "PCO TND 30 60 rue de MONTAURY Batiment B 39100 Nimes"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Haute-Garonne",
+        "Numéro du dépt": "31",
+        "Structure juridique": "CAMSP - CHU TOULOUSE",
+        "Numéro de téléphone": "05 61 77 65 74",
+        "Adresse électronique": "plateformetnd-31@chu-toulouse.fr",
+        "Adresse postale": "CHU Purpan place du docteur baylac TSA 40031 31059 TOULOUSE cedex"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Ariège",
+        "Numéro du dépt": "09",
+        "Structure juridique": "ADPEP",
+        "Numéro de téléphone": "09 78 67 71 67",
+        "Adresse électronique": "secretariatpco@lespep09.org",
+        "Adresse postale": "PCO, 1 rue salvador Allende, 09000 FOIX"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Hautes-Pyrénées",
+        "Numéro du dépt": "65",
+        "Structure juridique": "SESSAD Les hirondelles/CAMSP",
+        "Numéro de téléphone": "06.74.12.60.15",
+        "Adresse électronique": "pco65@adapei65.fr",
+        "Adresse postale": "74 avenue d'Azereix 65000 TARBES"
+    },
+    {
+        "Région": "Occitanie",
+        "Département": "Pyrénées Orientales",
+        "Numéro du dépt": "66",
+        "Structure juridique": "ADPEP 66",
+        "Numéro de téléphone": "06.19.70.92.44",
+        "Adresse électronique": "plateforme-tnd66@adpep66.org",
+        "Adresse postale": "9 avenue de l'étang, 66240 St Estève"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Bouches-du-Rhône",
+        "Numéro du dépt": "13",
+        "Structure juridique": "CH Valvert",
+        "Numéro de téléphone": "04 91 87 67 25",
+        "Adresse électronique": "pco@ch-valvert.fr",
+        "Adresse postale": "78 Bd des Libérateurs 13011 Marseille"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Bouches-du-Rhône",
+        "Numéro du dépt": "13",
+        "Structure juridique": "CH du Pays d'Aix / CAMSP",
+        "Numéro de téléphone": "04.42.33.51.23 (antenne Aix en Provence) / 06.16.86.29.96 (antenne Arles) / 06.08.27.45.19 (antenne Salon de Provence)",
+        "Adresse électronique": "Gestion-pco@ch-aix.fr",
+        "Adresse postale": "3 antennes : CH Aix en Provence, CH Arles, CH Salon de Provence"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Vaucluse",
+        "Numéro du dépt": "84",
+        "Structure juridique": "CH Henri Duffaut / AVIGNON",
+        "Numéro de téléphone": "en cours",
+        "Adresse électronique": "en cours",
+        "Adresse postale": "400 rue Raoul Follereau 84 902 AVIGNON CEDEX 9"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Alpes-de-Haute-Provence",
+        "Numéro du dépt": "04",
+        "Structure juridique": "CAMSP ARI",
+        "Numéro de téléphone": "06 85 47 63 03",
+        "Adresse électronique": "pco04@ari.asso.fr",
+        "Adresse postale": "66 traverse Françoise Dolto 04100 MANOSQUE"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Hautes-Alpes",
+        "Numéro du dépt": "05",
+        "Structure juridique": "CAMSP LES PEP ADS",
+        "Numéro de téléphone": "07.48.75.93.59",
+        "Adresse électronique": "plateformetnd05@lespepads.org",
+        "Adresse postale": "Bat Les Hirondelles 11, Rue des Marronniers 05 000 GAP"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Alpes Maritimes",
+        "Numéro du dépt": "06",
+        "Structure juridique": "inter-sercteur de pédopsychiatrie I04 de la Fondation Lenval coporteur SESSAD de la plateforme autisme (3A)",
+        "Numéro de téléphone": "04 97 80 43 20",
+        "Adresse électronique": "secretariat.pco@lenval.com",
+        "Adresse postale": "115 promenade des Anglais 06200 NICE"
+    },
+    {
+        "Région": "PACA",
+        "Département": "Var",
+        "Numéro du dépt": "83",
+        "Structure juridique": "UGECAM Pacac Camsp de Toulon",
+        "Numéro de téléphone": "06 67 77 80 62",
+        "Adresse électronique": "col.grp-poc83.ugpacac@ugecam.assurance-maladie.fr",
+        "Adresse postale": "224 Rue Emile Ollivier, Le Toucan II Bat B 83000 TOULON"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Loire-Atlantique",
+        "Numéro du dépt": "44",
+        "Structure juridique": "ADAPEI 44/co-porteuse unité universitaire de psychiatrie de l'enfant et de l'adolescent du CHU Nantes",
+        "Numéro de téléphone": "02 53 52 63 10",
+        "Adresse électronique": "plateformetnd44@chu-nantes.fr",
+        "Adresse postale": "58 ter et quater boulevard Victor Hugo, 44200 Nantes"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Loire-Atlantique",
+        "Numéro du dépt": "44",
+        "Structure juridique": "CH de Saint Nazaire, coportage avec APAJ44",
+        "Numéro de téléphone": "02.40.70.20.17 / 06.49.54.49.77",
+        "Adresse électronique": "plateformetndouest@apajh44.org",
+        "Adresse postale": "51 rue de Châteaubriant 44600 St nazaire"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Mayenne",
+        "Numéro du dépt": "53",
+        "Structure juridique": "APF France Handicap",
+        "Numéro de téléphone": "07.88.52.20.67",
+        "Adresse électronique": "pco-53@apf.asso.fr",
+        "Adresse postale": "121 quai Paul BOUDET 53000 LAVAL"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Vendée",
+        "Numéro du dépt": "85",
+        "Structure juridique": "Association vendéenne pour le dépistage et les interventions précodes de l'Enfant (AVDIPE)",
+        "Numéro de téléphone": "02 51 47 35 00",
+        "Adresse électronique": "pco.tnd@avdipe.fr",
+        "Adresse postale": "CAMSP Polyvalent de Vendée CHD les Oudairies, chemin des amoureux, 85000 LA ROCHE SUR YON"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Maine et Loire",
+        "Numéro du dépt": "49",
+        "Structure juridique": "VYV3 PDL : CAMSP Polyvalent, co-porteur : CESAME",
+        "Numéro de téléphone": "06.73.07.17.70",
+        "Adresse électronique": "pco-tnd49@vyv3.fr",
+        "Adresse postale": "51 rue du Vallon, 49000 ANGERS"
+    },
+    {
+        "Région": "Pays de la Loire",
+        "Département": "Sarthe",
+        "Numéro du dépt": "72",
+        "Structure juridique": "EPSM de la Sarthe CMPP",
+        "Numéro de téléphone": "02 72 34 07 60",
+        "Adresse électronique": "c.poisson@epsm-sarthe.fr",
+        "Adresse postale": "32 Rue d’Australie 72000 Le Mans"
+    },
+    {
+        "Région": "DOM-TOM",
+        "Département": "Guyane",
+        "Numéro du dépt": "973",
+        "Structure juridique": "ADAPEI Guyane",
+        "Numéro de téléphone": "05 94 28 45 81",
+        "Adresse électronique": "plateformetnd@adapei973.org",
+        "Adresse postale": "11 lotissement Stanis 97354 Rémire-Montjoly"
+    },
+    {
+        "Région": "DOM-TOM",
+        "Département": "La Réunion",
+        "Numéro du dépt": "974",
+        "Structure juridique": "Fondation Père Favron",
+        "Numéro de téléphone": "02 62 70 11 02",
+        "Adresse électronique": "contact-pco@favron.org",
+        "Adresse postale": "3, rue Marius et Ary Leblond 97450 Saint-Louis"
+    },
+    {
+        "Région": "DOM-TOM",
+        "Département": "Guadeloupe",
+        "Numéro du dépt": "971",
+        "Structure juridique": "Association Kalitepouviv (1901)",
+        "Numéro de téléphone": "05 90 85 92 26",
+        "Adresse électronique": "pco971@kalitepouviv.fr",
+        "Adresse postale": "Rue de la Poterie, 97139 Les Abymes"
+    },
+    {
+        "Région": "DOM-TOM",
+        "Département": "Martinique",
+        "Numéro du dépt": "972",
+        "Structure juridique": "GCMPIH : groupement coopératif de Martinique pour la Promotion des Personnes Inadaptées et Handicapées",
+        "Numéro de téléphone": "05 96 74 86 77",
+        "Adresse électronique": "gcmpih2@orange.fr",
+        "Adresse postale": "Pôle administratif : Zone Champigny – BP 71 – 97224 DUCOS"
+    },
+    {
+        "Région": "Corse",
+        "Département": "Corse",
+        "Numéro du dépt": "2B",
+        "Structure juridique": "Association PEP 2B",
+        "Numéro de téléphone": "04 95 38 78 55",
+        "Adresse électronique": "pcotnd-pep2b@orange.fr",
+        "Adresse postale": "PCO TND - CAMSP MORIANI Lieu-dit Distindino Moriani-Plage 20230 SAN NICOLAO"
+    }
+]
