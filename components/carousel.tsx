@@ -10,11 +10,11 @@ export function Carousel({ children, colors }: { children: React.ReactNode[], co
 
   return (
     <div className="relative w-full">
-      <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
+      <div className="relative h-full overflow-hidden rounded-lg sm:overflow-y-auto">
         {children.map((child, index) => (
           <div
             key={nanoid()}
-            className={`duration-700 ${colors[index]} px-16 flex justify-center items-center ease-in-out min-w-[400px] min-h-[400px] ${index === current ? 'block' : 'hidden'}`}
+            className={`duration-700 ${colors[index]} px-16 flex justify-center items-center ease-in-out min-w-[400px] min-h-[600px] ${index === current ? 'block' : 'hidden'}`}
             data-carousel-item
           >
             {child}
