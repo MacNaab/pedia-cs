@@ -7,6 +7,7 @@ export const dataKeys = {
     "Fontanelle",
     "Mycose buccale",
     "Vaccination",
+    "Vitamine D",
   ],
   Dermatologie: [
     "Dermatite atopique",
@@ -178,6 +179,46 @@ export const data = {
       <p className="mt-2">
         Multiple vaccination dans une même zone: espacer d&apos;au moins 1
         phalange (2.5 cm)
+      </p>
+    </div>
+  ),
+  "Vitamine D": (
+    <div>
+      <ul className="list-disc ml-4">
+        <li>0-2 ans</li>
+        <div className="ml-6">ZYMAD ou ADRIGYL</div>
+        <div className="ml-6 italic">2 gouttes / jour jusqu’à 2 ans</div>
+        <li>2-18 ans sans facteur de risque</li>
+        <div className="ml-6 italic">2 gouttes / jour ou</div>
+        <div className="ml-6 italic">
+          50 000 UI de vit D3 tous les 3 mois ou
+        </div>
+        <div className="ml-6 italic">
+          80 à 100 000 UI de vit D3 en automne et en hiver (2 fois par an)
+        </div>
+        <div className="ml-6">Préférer VAXNEUVANCE (15 valences)</div>
+        <li>2-18 ans avec facteur de risque</li>
+        <div className="ml-6 italic">3-4 gouttes / jour ou</div>
+        <div className="ml-6 italic">
+          50 000 UI de vit D3 toutes les 6 semaines ou
+        </div>
+        <div className="ml-6 italic">
+          80 à 100 000 UI de vit D3 tous les 3 mois
+        </div>
+      </ul>
+      <p className="mt-2 text-justify">
+        Facteurs de risque : peau noire, obésité, régime vegan, absence
+        d’exposition solaire
+      </p>
+      <p className="mt-2 text-sm">
+        Source:
+        <a
+          className="ml-1 text-blue-600 hover:underline hover:text-blue-800"
+          target="_blank"
+          href="https://www.sfpediatrie.com/vitamine"
+        >
+          Société Française de Pédiatrie
+        </a>
       </p>
     </div>
   ),

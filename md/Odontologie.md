@@ -1,0 +1,1 @@
+Intérêt de la brosse à dent électrique en pédiatrie jusqu'à l'apprentissage d'un brossage mécanique efficace.
