@@ -14,39 +14,50 @@ const pathData: Record<IconType, string> = {
 };
 
 export const Blockquote = ({ children }: any) => {
-  const myChildren = children[1].props.children;
-  const split = myChildren.split("\n");
+  let child = children.filter(function (item: any) {
+    return item.props;
+  });
 
-  const match = myChildren.match(alertRegex);
+  const firstNode = child[0];
+  const text = firstNode.props.children;
+  const reg = alertRegex;
+  const match = text.match(reg);
   if (match) {
-    let alertType : IconType = match[1].toLowerCase();
-    let text = myChildren;
-
-    if (text.includes("\n")) {
-      let value = text.replace(alertRegex, "").replace(/^\n+/, "");
-      let split = value.split("\n");
-      console.log(alertType, value, split);
-      // return <blockquote>{split.map((item: any) => <div key={nanoid()}>{item}</div>)}</blockquote>;
-      return (
-        <div className={`markdown-alert markdown-alert-${alertType}`}>
-          <div className="markdown-alert-title">
-            <svg className="octicon" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-                <path d={pathData[alertType]} />
-            </svg>
-            <div>{alertType.toUpperCase()}</div>
-          </div>
-          {split.map((item: any) => (
-            <div key={nanoid()}>{item}</div>
-          ))}
+    let alertType: IconType = match[1].toLowerCase();
+    return (
+      <div className={`markdown-alert markdown-alert-${alertType}`}>
+        <div className="markdown-alert-title">
+          <svg
+            className="octicon"
+            viewBox="0 0 16 16"
+            width="16"
+            height="16"
+            aria-hidden="true"
+          >
+            <path d={pathData[alertType]} />
+          </svg>
+          <div>{alertType.toUpperCase()}</div>
         </div>
-      );
-    }
+        {child.map((item: any) => {
+          let text = item.props.children;
+          if (typeof text === "string") {
+            let value = text.replace(reg, '').replace(/^\n+/, '');
+            let split = value.split("\n");
+            return (
+              <div key={nanoid()}>
+                {split.map((item: any) => (
+                  <div key={nanoid()}>{item}</div>
+                ))}
+              </div>
+            );
+          }
+          return <div key={nanoid()}>{
+            text
+          }</div>;
+        })}
+      </div>
+    );
   }
-  return (
-    <blockquote>
-      {myChildren.split("\n").map((item: any) => (
-        <div key={nanoid()}>{item}</div>
-      ))}
-    </blockquote>
-  );
+
+  return <blockquote>{child}</blockquote>;
 };
