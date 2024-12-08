@@ -39,5 +39,5 @@ export const dataKeys = {
     "Mycose vaginale récidivante",
   ],
   Mère: ["Césarienne", "Grossesse", "Montée de lait"],
-  Autre: ["Imagerie", "Odontologie", "Ophtalmologie", "HTA"],
+  Autre: ["Imagerie", "Odontologie", "Ophtalmologie", "HTA", "Epaule"],
 };
