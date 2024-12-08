@@ -66,5 +66,7 @@ Prescription à but thérapeutique en l'absence de spécialités équivalentes d
 	LOCAPRED crème
 		1 à 2 applications sur le visage par jour pendant la crise puis 2 / semaine pendant 3 mois
 	```
+
+> [!NOTE]
 > Essaie d'un arrêt proactif: 
 > - 2 / semaine pendant 3 mois

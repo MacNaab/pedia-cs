@@ -1,11 +1,12 @@
 export const dataKeys = {
   Pédiatrie: [
     "Alimentation",
+    "Allergologie",
     "Asthme du nourrisson",
     "Colite du nourrisson",
     "Enurésie primaire",
     "Fontanelle",
-    "Mycose buccale",
+    "Mycoses",
     "Otites",
     "RGO",
     "Vaccination",
@@ -38,5 +39,5 @@ export const dataKeys = {
     "Mycose vaginale récidivante",
   ],
   Mère: ["Césarienne", "Grossesse", "Montée de lait"],
-  Autre: ["Imagerie", "Odontologie", "Ophtalmologie"],
+  Autre: ["Imagerie", "Odontologie", "Ophtalmologie", "HTA"],
 };
